@@ -35,7 +35,11 @@ Obs: Caso tenha alguma dúvida, tome a decisão que julgar ser a melhor.
 
 <h2>Como Utilizar o Programa</h2>
 
-Após fazer o clone do código, você precisar ter a JDK (Java Development Kit) instalada em seu computador a partir da versão 1.4. Abra o arquivo em sua IDE de preferência, e você verá uma tela muito próxima a essa:
+Após fazer o clone do código, você pode fazer isso utilizando o comando:
+
+```git clone <url do projeto>```
+
+É necessário ter a JDK (Java Development Kit) instalada em seu computador a partir da versão 1.4. Abra o arquivo em sua IDE (Ambiente de Desenvolvimento Integrado) de preferência, e você verá uma tela muito próxima a essa:
 
 ![image](https://user-images.githubusercontent.com/119972623/236303996-a42a990d-ad5c-4956-851e-dfa410e18254.png)
 
@@ -49,7 +53,7 @@ Adicionando 2(duas) horas e 32(trinta e dois) minutos no programa, ele gera o re
 
 ![image](https://user-images.githubusercontent.com/119972623/236305848-7a21a562-30ad-4180-8991-becbff7e1e56.png)
 
-E se caso for inserido números que estejam fora dos parâmetros requisitados, uma mensagem aparecerá informando ao usuário para inserir um número válido:
+E caso sejam inseridos números que estejam fora dos parâmetros requisitados, uma mensagem aparecerá informando ao usuário para inserir um número válido:
 
 ![image](https://user-images.githubusercontent.com/119972623/236362405-80727a66-052a-413c-8ba4-1b855c77a979.png)
 
